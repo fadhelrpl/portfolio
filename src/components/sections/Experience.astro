@@ -1,0 +1,15 @@
+---
+import { experiences } from '@/data/experience';
+import SectionHeading from '../SectionHeading.astro';
+import ExperienceCard from '../ExperienceCard.astro';
+---
+
+<section id="experience" class="py-20 sm:py-28">
+  <div class="section-container">
+    <SectionHeading title="Experience" subtitle="Professional journey and leadership roles" />
+
+    <div class="mx-auto max-w-3xl space-y-6">
+      {experiences.map((item) => <ExperienceCard item={item} />)}
+    </div>
+  </div>
+</section>

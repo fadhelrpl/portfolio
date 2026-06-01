@@ -1,0 +1,15 @@
+---
+import { certificates } from '@/data/certificates';
+import SectionHeading from '../SectionHeading.astro';
+import CertificateCard from '../CertificateCard.astro';
+---
+
+<section id="certificates" class="py-20 sm:py-28">
+  <div class="section-container">
+    <SectionHeading title="Certificates" subtitle="Continuous learning and professional development" />
+
+    <div class="grid gap-4 sm:grid-cols-2">
+      {certificates.map((cert) => <CertificateCard certificate={cert} />)}
+    </div>
+  </div>
+</section>

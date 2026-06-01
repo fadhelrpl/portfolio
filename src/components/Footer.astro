@@ -1,0 +1,33 @@
+---
+import { site } from '@/data/site';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-slate-200/60 py-8 dark:border-white/10">
+  <div class="section-container flex flex-col items-center justify-between gap-4 sm:flex-row">
+    <p class="text-sm text-slate-600 dark:text-slate-400">
+      &copy; {year} {site.shortName}. All rights reserved.
+    </p>
+    <p class="text-sm text-slate-500">
+      Built with
+      <a
+        href="https://astro.build"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="font-medium text-primary-600 hover:underline dark:text-primary-400"
+      >
+        Astro
+      </a>
+      &amp;
+      <a
+        href="https://tailwindcss.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="font-medium text-primary-600 hover:underline dark:text-primary-400"
+      >
+        Tailwind CSS
+      </a>
+    </p>
+  </div>
+</footer>
