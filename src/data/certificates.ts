@@ -15,14 +15,14 @@ export const certificates: Certificate[] = [
   {
     title: 'Memulai Pemrograman dengan Dart',
     issuer: 'Dicoding Indonesia',
-    date: 'Sep 13, 2024',
+    date: 'Jan 19, 2026',
     url: 'https://www.dicoding.com/certificates/81P25YK0NPOY',
   },
   {
-    title: 'HTML Dasar',
+    title: 'JavaScript Dasar',
     issuer: 'Skilvul',
-    date: 'Jan 19, 2026',
-    url: 'https://skilvul.com/courses/html-dasar/student/cm0ufi8lh013301lc1t0rhub8/',
+    date: 'Sep 13, 2024',
+    url: 'https://skilvul.com/courses/javascript-dasar/student/cm10dinui000801lgkme268ht/',
   },
   {
     title: 'CSS Dasar',
@@ -31,9 +31,9 @@ export const certificates: Certificate[] = [
     url: 'https://skilvul.com/courses/css-dasar/student/cm0ufi8lh013301lc1t0rhub8/',
   },
   {
-    title: 'JavaScript Dasar',
+    title: 'HTML Dasar',
     issuer: 'Skilvul',
     date: 'Sep 9, 2024',
-    url: 'https://skilvul.com/courses/javascript-dasar/student/cm10dinui000801lgkme268ht/',
+    url: 'https://skilvul.com/courses/html-dasar/student/cm0ufi8lh013301lc1t0rhub8/',
   },
 ];

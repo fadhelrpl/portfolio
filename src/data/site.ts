@@ -1,9 +1,9 @@
 export const site = {
   name: 'Raden Mohamad Fadhel Suradipraja',
   shortName: 'Fadhel',
-  role: 'Software Engineer',
+  role: 'Junior Software Engineer',
   description:
-    'Passionate Software Engineer with experience in web development, modern technologies, and building scalable applications.',
+    'Full-stack and mobile developer building real products with Laravel, Next.js 14, TypeScript, Flutter, and Tailwind CSS. Delivered 5+ client landing pages, trained 25+ students, and shipped a production POS system — all before graduating.',
   email: 'mohamadfadhelrpl@gmail.com',
   phone: '+62 851-7500-2096',
   location: 'Bogor, West Java, Indonesia',
@@ -23,19 +23,19 @@ export const site = {
 
 export const about = {
   summary:
-    'Software Engineering student at SMK IDN Boarding School with hands-on experience building web and mobile applications using Laravel, Next.js, Flutter, and Tailwind CSS. Co-developed a full-featured POS system and led web development training for high school students.',
+    'Full-stack and mobile developer with hands-on industry experience building web applications and cross-platform mobile apps using Laravel, Next.js 14, TypeScript, Flutter, and Tailwind CSS. Co-developed Sellerra, a production-ready POS system on Supabase — solely responsible for 3 of 4 core modules including JWT authentication, real-time transactions, and multi-category inventory management. Delivered 5+ responsive client landing pages at PT. Perdana Mitra Kencana and trained 25+ high school students in web development fundamentals with a 100% course completion rate.',
   highlights: [
-    'Full-stack web & mobile development',
-    'JWT authentication & REST API design',
-    'Responsive UI with Tailwind CSS',
-    'Team leadership & technical mentoring',
+    'Full-stack web & mobile development (Laravel, Next.js 14, Flutter)',
+    'JWT authentication & REST API design with Supabase & PostgreSQL',
+    'Responsive UI with Tailwind CSS — tested 320px to 1440px',
+    'Team leadership (6 members) & technical training (25+ students)',
   ],
   education: {
-    degree: 'Software Engineering (RPL)',
+    degree: 'Software Engineering (Rekayasa Perangkat Lunak)',
     school: 'SMK IDN Boarding School',
     location: 'Bogor, Indonesia',
-    period: '2024 – Present',
+    period: 'Aug 2023 – Jun 2026 (Expected)',
     details:
-      'Relevant coursework: OOP, Database Systems, Web Development, Mobile Application Development, and Software Engineering Fundamentals.',
+      'Relevant coursework: Object-Oriented Programming, Database Systems, Web Development, Mobile Application Development, and Software Engineering Fundamentals. Active as Head of Worship Division — Student Council (2024–Present).',
   },
 } as const;

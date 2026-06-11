@@ -10,14 +10,14 @@ export const skillCategories: SkillCategory[] = [
   },
   {
     name: 'Frameworks',
-    skills: ['Next.js', 'Laravel', 'Flutter', 'Tailwind CSS'],
+    skills: ['Next.js 14', 'Laravel', 'Flutter', 'Tailwind CSS'],
   },
   {
     name: 'Backend & Database',
-    skills: ['REST API', 'JWT Auth', 'Supabase', 'SQLite', 'Firebase'],
+    skills: ['REST API', 'JWT Auth', 'Supabase', 'PostgreSQL', 'MySQL', 'SQLite', 'Firebase'],
   },
   {
     name: 'Architecture & Tools',
-    skills: ['MVC Pattern', 'Responsive Design', 'Git', 'GitHub', 'Figma', 'VS Code'],
+    skills: ['MVC Pattern', 'Responsive Web Design', 'Git', 'GitHub', 'Vercel', 'Figma'],
   },
 ];
