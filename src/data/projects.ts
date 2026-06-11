@@ -35,7 +35,7 @@ export const projects: Project[] = [
       'Payroll management web application with a dark-themed admin dashboard, role-based access control, authentication, and full CRUD operations for employee salary data management.',
     image: '/images/projects/payroll-service.png',
     technologies: ['Laravel', 'Filament', 'Tailwind CSS', 'HTML'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/payroll-public',
     featured: true,
     category: 'web',
   },
@@ -45,7 +45,7 @@ export const projects: Project[] = [
       'Digital library platform featuring book borrowing workflows, user authentication, and catalog management with CRUD operations. Fully responsive across mobile, tablet, and desktop viewports.',
     image: '/images/projects/e-library.png',
     technologies: ['Laravel', 'Tailwind CSS', 'HTML'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/e-library-public',
     category: 'web',
   },
   {
@@ -54,7 +54,7 @@ export const projects: Project[] = [
       'Home decoration storefront with product search, hover effects, buy functionality, and a dedicated contact page — built with vanilla HTML, CSS, and JavaScript.',
     image: '/images/projects/web-ecommerce.png',
     technologies: ['HTML', 'Tailwind CSS', 'JavaScript'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/tailwind-e-commerce',
     category: 'web',
   },
   {
@@ -73,7 +73,7 @@ export const projects: Project[] = [
       'QR ticket scanner with user authentication, dark mode support, and ticket API integration for event check-in and management workflows.',
     image: '/images/projects/qr-scanner.png',
     technologies: ['Flutter', 'Dart', 'REST API'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/ticket_qr_scanner',
     category: 'mobile',
   },
   {
@@ -82,7 +82,7 @@ export const projects: Project[] = [
       'Cross-platform shopping app with product catalog, cart management, real-time chat, and user profile — built with Flutter and Firebase for live data sync.',
     image: '/images/projects/ecommerce.png',
     technologies: ['Flutter', 'Dart', 'Firebase'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/ecommerce_app_flutter',
     category: 'mobile',
   },
   {
@@ -91,7 +91,7 @@ export const projects: Project[] = [
       'Smart attendance system with face recognition using ML Kit, Firebase backend, attendance history tracking, and data export — built to automate manual attendance recording.',
     image: '/images/projects/attendance.png',
     technologies: ['Flutter', 'Dart', 'Firebase', 'ML Kit'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/attendance_app_flutter',
     category: 'mobile',
   },
   {
@@ -100,7 +100,7 @@ export const projects: Project[] = [
       'News reader with live API integration, keyword search, favorites system, and full dark mode support — designed for fast, distraction-free reading.',
     image: '/images/projects/news.png',
     technologies: ['Flutter', 'Dart', 'News API'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/news_app_flutter',
     category: 'mobile',
   },
   {
@@ -109,7 +109,7 @@ export const projects: Project[] = [
       'Daily task manager with SQLite local storage, full CRUD operations, user authentication, and image attachment support for task context.',
     image: '/images/projects/todo.png',
     technologies: ['Flutter', 'Dart', 'SQLite'],
-    github: 'https://github.com/fadhelrpl',
+    github: 'https://github.com/fadhelrpl/todo_app_flutter',
     category: 'mobile',
   },
 ];

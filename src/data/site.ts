@@ -9,7 +9,7 @@ export const site = {
   location: 'Bogor, West Java, Indonesia',
   github: 'https://github.com/fadhelrpl',
   linkedin: 'https://linkedin.com/in/fadhelrpl',
-  cvPath: '/cv/CV-ATS-Fadhel.pdf',
+  cvPath: 'https://drive.google.com/file/d/1VX3UkKodDRkb03-jjuPo2mE4VOJLbTmx/view?usp=sharing',
   navLinks: [
     { href: '#home', label: 'Home' },
     { href: '#about', label: 'About' },
@@ -34,8 +34,8 @@ export const about = {
     degree: 'Software Engineering (Rekayasa Perangkat Lunak)',
     school: 'SMK IDN Boarding School',
     location: 'Bogor, Indonesia',
-    period: 'Aug 2023 – Jun 2026 (Expected)',
+    period: 'Jul 2024 – Jun 2027 (Expected)',
     details:
-      'Relevant coursework: Object-Oriented Programming, Database Systems, Web Development, Mobile Application Development, and Software Engineering Fundamentals. Active as Head of Worship Division — Student Council (2024–Present).',
+      'Relevant coursework: Object-Oriented Programming, Database Systems, Web Development, Mobile Application Development, and Software Engineering Fundamentals. Active as Head of Worship Division — Student Council (2024–2025).',
   },
 } as const;

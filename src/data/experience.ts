@@ -23,7 +23,7 @@ export const experiences: ExperienceItem[] = [
   {
     title: 'Technical Trainer — Basic Web Development',
     company: 'Sahabat Ilmu Islamic School',
-    period: 'Aug 2024 · 1 Week',
+    period: 'Aug 2024 · 3 Days',
     techStack: ['HTML', 'CSS', 'JavaScript'],
     description: [
       'Delivered a structured web development curriculum covering HTML, CSS, and JavaScript fundamentals to 25+ high school students, adapting technical concepts to beginner-level understanding.',
@@ -35,7 +35,7 @@ export const experiences: ExperienceItem[] = [
   {
     title: 'Head of Worship Division — Student Council',
     company: 'SMK IDN Boarding School',
-    period: '2024 – Present',
+    period: '2024 – 2025',
     description: [
       'Led and coordinated a team of 6 members in planning and executing 10+ religious and school community events per semester, including weekly assemblies and annual celebration programs.',
       'Introduced a structured weekly coordination system that improved division planning efficiency — rated top-performing division in the 2024 student council evaluation.',
